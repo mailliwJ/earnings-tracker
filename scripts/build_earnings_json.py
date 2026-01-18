@@ -75,8 +75,7 @@ def main():
     generated_at = _utc_iso()
 
     results = {}
-    notes = {}
-
+    
     for sym in tickers:
         country = get_country(sym)
 
@@ -96,20 +95,16 @@ def main():
                 next_date = edf.index[0].date()
                 row = edf.iloc[0]
 
-                # These are the columns yfinance returns here:
                 eps_est = row.get("EPS Estimate", None) if hasattr(row, "get") else None
                 eps_rep = row.get("Reported EPS", None) if hasattr(row, "get") else None
                 surprise = row.get("Surprise(%)", None) if hasattr(row, "get") else None
 
-                # optional: drop past-year dates
                 if next_date and next_date.year < this_year:
                     next_date = None
-                    note = "earnings date before this year"
+                    note = "last earnings date before this year"
 
         except Exception as e:
             note = f"error: {e}"
-
-        notes[sym] = note
 
         if next_date is None:
             results[sym] = []
@@ -125,6 +120,7 @@ def main():
             "lastUpdated": generated_at,
             "source": "yfinance.get_earnings_dates",
             "country": country,
+            "note":note
         }]
 
     payload = {"generated_at": generated_at, "results": results, "notes": notes}
