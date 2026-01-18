@@ -89,7 +89,7 @@ def main() -> None:
         note = "ok"
 
         try:
-            t = yf.Ticker(sym)  # IMPORTANT: no session= passed
+            t = yf.Ticker(sym)
             edf = t.get_earnings_dates(limit=1)
 
             if edf is None or edf.empty:
@@ -126,7 +126,6 @@ def main() -> None:
             "surprisePct": _num_or_none(surprise),
             "lastUpdated": generated_at,
             "source": "yfinance.get_earnings_dates",
-            # harmless metadata (ignored by Apps Script unless you want it later)
             "country": country,
         }]
 
