@@ -1,23 +1,62 @@
 from __future__ import annotations
 
 import json
-from datetime import date
+from datetime import datetime
 from pathlib import Path
-from typing import Dict, List
 
-from scripts.schema import utc_iso
-from scripts.yf_fetch import fetch_next_event
+import pandas as pd
+import yfinance as yf
+
+def get_country(symbol: str) -> str:
+    if not symbol:
+        return ""
+    if symbol.endswith(".AX"):
+        return "Australia"
+    if symbol.endswith(".HE"):
+        return "Finland"
+    if symbol.endswith(".PA"):
+        return "France"
+    if symbol.endswith(".DE"):
+        return "Germany"
+    if symbol.endswith(".HK"):
+        return "Hong Kong"
+    if symbol.endswith(".MI"):
+        return "Italy"
+    if symbol.endswith(".T"):
+        return "Japan"
+    if symbol.endswith(".AS"):
+        return "Netherlands"
+    if symbol.endswith(".SI"):
+        return "Singapore"
+    if symbol.endswith(".MC"):
+        return "Spain"
+    if symbol.endswith(".ST"):
+        return "Sweden"
+    if symbol.endswith(".L"):
+        return "United Kingdom"
+    return "United States"
 
 
-ROOT = Path(__file__).resolve().parents[1]
-WATCHLIST_PATH = ROOT / "data" / "watchlist.json"
-OUT_PATH = ROOT / "data" / "earnings.json"
+def _utc_iso() -> str:
+    return datetime.utcnow().isoformat(timespec="seconds") + "Z"
 
 
-def load_watchlist() -> List[str]:
-    obj = json.loads(WATCHLIST_PATH.read_text(encoding="utf-8"))
+def _num_or_none(x):
+    if x is None:
+        return None
+    try:
+        if pd.isna(x):
+            return None
+        return float(x)
+    except Exception:
+        return None
+
+
+def load_watchlist(path: Path) -> list[str]:
+    obj = json.loads(path.read_text(encoding="utf-8"))
     tickers = obj.get("tickers", [])
-    # normalize, dedupe preserve order
+
+    # normalize + dedupe preserve order
     out = []
     seen = set()
     for t in tickers:
@@ -30,23 +69,61 @@ def load_watchlist() -> List[str]:
 
 
 def main() -> None:
-    today = date.today()
-    tickers = load_watchlist()
+    root = Path(__file__).resolve().parents[1]
+    watchlist_path = root / "data" / "watchlist.json"
+    out_path = root / "data" / "earnings.json"
 
-    results: Dict[str, List[dict]] = {}
+    tickers = load_watchlist(watchlist_path)
+    generated_at = _utc_iso()
+
+    results: dict[str, list[dict]] = {}
+
     for sym in tickers:
+        country = get_country(sym)
+
+        next_date = None
+        eps_est = None
+        eps_rep = None
+        surprise = None
+        note = "ok"
+
         try:
-            ev = fetch_next_event(sym, today)
-            results[sym] = [ev.to_dict()] if ev else []
-        except Exception:
+            t = yf.Ticker(sym)
+            edf = t.get_earnings_dates(limit=1)
+
+            if edf is None or edf.empty:
+                note = "no earnings date"
+            else:
+                next_date = edf.index[0].date()
+                row = edf.iloc[0]
+
+                # what yfinance typically returns for this endpoint
+                eps_est = row.get("EPS Estimate", None) if hasattr(row, "get") else None
+                eps_rep = row.get("Reported EPS", None) if hasattr(row, "get") else None
+                surprise = row.get("Surprise(%)", None) if hasattr(row, "get") else None
+
+        except Exception as e:
+            note = f"error: {e}"
+
+        if next_date is None:
             results[sym] = []
+            continue
 
-    payload = {
-        "generated_at": utc_iso(),
-        "results": results
-    }
+        results[sym] = [{
+            "symbol": sym,
+            "date": pd.to_datetime(next_date).strftime("%Y-%m-%d"),
+            "epsEstimate": _num_or_none(eps_est),
+            "epsActual": _num_or_none(eps_rep),
+            "surprisePct": _num_or_none(surprise),
+            "lastUpdated": generated_at,
+            "source": "yfinance.get_earnings_dates",
+            # optional metadata (Apps Script can ignore)
+            "country": country,
+            "note": note,
+        }]
 
-    OUT_PATH.write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
+    payload = {"generated_at": generated_at, "results": results}
+    out_path.write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
 
 
 if __name__ == "__main__":
