@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 import json
 from datetime import datetime
 from pathlib import Path
@@ -8,32 +6,32 @@ import pandas as pd
 import yfinance as yf
 
 
-def get_country(symbol):
-    if not symbol:
+def get_country(sym):
+    if not sym:
         return ""
-    if symbol.endswith(".AX"):
+    if sym.endswith(".AX"):
         return "Australia"
-    if symbol.endswith(".HE"):
+    if sym.endswith(".HE"):
         return "Finland"
-    if symbol.endswith(".PA"):
+    if sym.endswith(".PA"):
         return "France"
-    if symbol.endswith(".DE"):
+    if sym.endswith(".DE"):
         return "Germany"
-    if symbol.endswith(".HK"):
+    if sym.endswith(".HK"):
         return "Hong Kong"
-    if symbol.endswith(".MI"):
+    if sym.endswith(".MI"):
         return "Italy"
-    if symbol.endswith(".T"):
+    if sym.endswith(".T"):
         return "Japan"
-    if symbol.endswith(".AS"):
+    if sym.endswith(".AS"):
         return "Netherlands"
-    if symbol.endswith(".SI"):
+    if sym.endswith(".SI"):
         return "Singapore"
-    if symbol.endswith(".MC"):
+    if sym.endswith(".MC"):
         return "Spain"
-    if symbol.endswith(".ST"):
+    if sym.endswith(".ST"):
         return "Sweden"
-    if symbol.endswith(".L"):
+    if sym.endswith(".L"):
         return "United Kingdom"
     return "United States"
 
@@ -76,8 +74,8 @@ def main():
     this_year = datetime.now().date().year
     generated_at = _utc_iso()
 
-    results: dict[str, list[dict]] = {}
-    notes: dict[str, str] = {}
+    results = {}
+    notes = {}
 
     for sym in tickers:
         country = get_country(sym)
