@@ -38,7 +38,7 @@ def get_country(symbol):
     return "United States"
 
 
-def _utc_iso() -> str:
+def _utc_iso():
     return datetime.utcnow().isoformat(timespec="seconds") + "Z"
 
 
@@ -51,7 +51,7 @@ def _num_or_none(x):
         return None
 
 
-def load_watchlist(path: Path) -> list[str]:
+def load_watchlist(path):
     obj = json.loads(path.read_text(encoding="utf-8"))
     tickers = obj.get("tickers", [])
     out, seen = [], set()
