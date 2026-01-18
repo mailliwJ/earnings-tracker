@@ -21,7 +21,7 @@ jobs:
 
       - name: Build earnings.json
         run: |
-          python -m scripts/build_earnings_json.py
+          python -m scripts.build_earnings_json
 
       - name: Commit changes
         run: |
