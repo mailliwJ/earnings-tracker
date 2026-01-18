@@ -8,7 +8,7 @@ import pandas as pd
 import yfinance as yf
 
 
-def get_country(symbol: str) -> str:
+def get_country(symbol):
     if not symbol:
         return ""
     if symbol.endswith(".AX"):
@@ -64,7 +64,7 @@ def load_watchlist(path: Path) -> list[str]:
     return out
 
 
-def main() -> None:
+def main():
     root = Path(__file__).resolve().parents[1]
     watchlist_path = root / "data" / "watchlist.json"
     out_path = root / "data" / "earnings.json"
