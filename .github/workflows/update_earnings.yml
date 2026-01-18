@@ -2,7 +2,7 @@ name: Update earnings.json
 
 on:
   schedule:
-    - cron: "15 6 * * 1-5"   # weekdays 06:15 UTC
+    - cron: "15 6 * * 1-5"
   workflow_dispatch:
 
 jobs:
