@@ -1,0 +1,17 @@
+{
+  "tickers": [
+    "AAPL", "ABBV", "ABNB", "ABT", "ACN", "ADBE", "ADS.DE", "AI.PA", "AIR.PA", "ALV.DE", "AMD",
+    "AMZN", "ASML.AS", "AVGO", "AXP", "AZN.L", "BA", "BABA", "BAC", "BARC.L", "BATS.L", "BAYN.DE",
+    "BBVA.MC", "BEI.DE", "BHP.AX", "BKNG", "BLK", "BMW.DE", "BMY", "BNP.PA", "BX", "CABK.MC", "CAT",
+    "CBA.AX", "CMCSA", "CNH", "COP", "COST", "9CI.SI", "CRM", "CSCO", "CSL.AX", "CVS", "CVX", "4568.T",
+    "DHR", "DIS", "6367.T", "DTE.DE", "DTG.DE", "ENEL.MI", "ENI.MI", "GE", "GOOGL", "GS", "HD", "HEIA.AS",
+    "6501.T", "H78.SI", "HMC", "HON", "HSBA.L", "IBM", "INTC", "INTU", "ISP.MI", "ISRG", "ITX.MC", "C07.SI",
+    "JD", "JNJ", "JPM", "6861.T", "KO", "LI", "LIN", "LLY", "LMT", "LSEG.L", "MA", "MBG.DE", "MC.PA",
+    "MCD", "MDLZ", "META", "MMM", "MRK", "MRK.DE", "MS", "MSFT", "6981.T", "NAB.AX", "NEE",
+    "NESTE.HE", "NFLX", "6594.T", "NKE", "NOKIA.HE", "NOW", "NVDA", "4661.T", "OR.PA", "ORCL", "PEP",
+    "PFE", "PG", "PM", "PYPL", "QCOM", "RACE.MI", "RMS.PA", "RTX", "SAN.MC", "SAP", "SBUX", "S68.SI",
+    "SHEL.L", "SHOP", "C6L.SI", "SIE.DE", "SONY", "STLAM.MI", "3382.T", "T", "TCEHY", "8035.T", "7203.T",
+    "8766.T", "TMO", "TMUS", "TSLA", "TTE.PA", "TXN", "UCG.MI", "ULVR.L", "UNH", "UNP", "UPS", "V",
+    "VNA.DE", "VOD.L", "VOLV-B.ST", "VOW3.DE", "VZ", "WES.AX", "WFC", "F34.SI", "WMT", "XOM"
+  ]
+}
