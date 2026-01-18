@@ -1,1438 +1,154 @@
 {
-  "generated_at": "2026-01-18T18:33:39Z",
+  "generated_at": "2026-01-18T18:48:30Z",
   "results": {
-    "3382.T": [
-      {
-        "date": "2026-04-09",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:19Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "3382.T",
-        "time": ""
-      }
-    ],
-    "4568.T": [
-      {
-        "date": "2026-01-30",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:22Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "4568.T",
-        "time": ""
-      }
-    ],
-    "4661.T": [
-      {
-        "date": "2026-01-29",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:03Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "4661.T",
-        "time": ""
-      }
-    ],
-    "6367.T": [
-      {
-        "date": "2026-02-04",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:24Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "6367.T",
-        "time": ""
-      }
-    ],
-    "6501.T": [
-      {
-        "date": "2026-01-29",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:32Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "6501.T",
-        "time": ""
-      }
-    ],
-    "6594.T": [
-      {
-        "date": "2026-01-22",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:59Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "6594.T",
-        "time": ""
-      }
-    ],
-    "6861.T": [
-      {
-        "date": "2026-01-29",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:43Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "6861.T",
-        "time": ""
-      }
-    ],
+    "3382.T": [],
+    "4568.T": [],
+    "4661.T": [],
+    "6367.T": [],
+    "6501.T": [],
+    "6594.T": [],
+    "6861.T": [],
     "6981.T": [],
-    "7203.T": [
-      {
-        "date": "2026-02-06",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:22Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "7203.T",
-        "time": ""
-      }
-    ],
-    "8035.T": [
-      {
-        "date": "2026-02-06",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:22Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "8035.T",
-        "time": ""
-      }
-    ],
-    "8766.T": [
-      {
-        "date": "2026-02-13",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:23Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "8766.T",
-        "time": ""
-      }
-    ],
-    "9CI.SI": [
-      {
-        "date": "2026-02-11",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:18Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "9CI.SI",
-        "time": ""
-      }
-    ],
-    "AAPL": [
-      {
-        "date": "2026-01-29",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:31:49Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "AAPL",
-        "time": ""
-      }
-    ],
-    "ABBV": [
-      {
-        "date": "2026-02-04",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:31:50Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "ABBV",
-        "time": ""
-      }
-    ],
+    "7203.T": [],
+    "8035.T": [],
+    "8766.T": [],
+    "9CI.SI": [],
+    "AAPL": [],
+    "ABBV": [],
     "ABNB": [],
-    "ABT": [
-      {
-        "date": "2026-01-22",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:31:51Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "ABT",
-        "time": ""
-      }
-    ],
-    "ACN": [
-      {
-        "date": "2026-03-19",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:31:52Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "ACN",
-        "time": ""
-      }
-    ],
-    "ADBE": [
-      {
-        "date": "2026-03-12",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:31:53Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "ADBE",
-        "time": ""
-      }
-    ],
-    "ADS.DE": [
-      {
-        "date": "2026-03-04",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:31:54Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "ADS.DE",
-        "time": ""
-      }
-    ],
-    "AI.PA": [
-      {
-        "date": "2026-02-20",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:31:54Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "AI.PA",
-        "time": ""
-      }
-    ],
+    "ABT": [],
+    "ACN": [],
+    "ADBE": [],
+    "ADS.DE": [],
+    "AI.PA": [],
     "AIR.PA": [],
     "ALV.DE": [],
-    "AMD": [
-      {
-        "date": "2026-02-03",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:31:56Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "AMD",
-        "time": ""
-      }
-    ],
-    "AMZN": [
-      {
-        "date": "2026-02-05",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:31:57Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "AMZN",
-        "time": ""
-      }
-    ],
+    "AMD": [],
+    "AMZN": [],
     "ASML.AS": [],
-    "AVGO": [
-      {
-        "date": "2026-03-04",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:31:59Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "AVGO",
-        "time": ""
-      }
-    ],
-    "AXP": [
-      {
-        "date": "2026-01-30",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:31:59Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "AXP",
-        "time": ""
-      }
-    ],
+    "AVGO": [],
+    "AXP": [],
     "AZN.L": [],
-    "BA": [
-      {
-        "date": "2026-01-27",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:01Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "BA",
-        "time": ""
-      }
-    ],
-    "BABA": [
-      {
-        "date": "2026-02-19",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:02Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "BABA",
-        "time": ""
-      }
-    ],
-    "BAC": [
-      {
-        "date": "2026-04-15",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:03Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "BAC",
-        "time": ""
-      }
-    ],
+    "BA": [],
+    "BABA": [],
+    "BAC": [],
     "BARC.L": [],
     "BATS.L": [],
     "BAYN.DE": [],
     "BBVA.MC": [],
     "BEI.DE": [],
     "BHP.AX": [],
-    "BKNG": [
-      {
-        "date": "2026-02-19",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:08Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "BKNG",
-        "time": ""
-      }
-    ],
-    "BLK": [
-      {
-        "date": "2026-04-10",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:08Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "BLK",
-        "time": ""
-      }
-    ],
+    "BKNG": [],
+    "BLK": [],
     "BMW.DE": [],
-    "BMY": [
-      {
-        "date": "2026-02-05",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:10Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "BMY",
-        "time": ""
-      }
-    ],
+    "BMY": [],
     "BNP.PA": [],
-    "BX": [
-      {
-        "date": "2026-01-29",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:12Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "BX",
-        "time": ""
-      }
-    ],
+    "BX": [],
     "C07.SI": [],
     "C6L.SI": [],
-    "CABK.MC": [
-      {
-        "date": "2026-01-30",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:13Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "CABK.MC",
-        "time": ""
-      }
-    ],
-    "CAT": [
-      {
-        "date": "2026-01-29",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:14Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "CAT",
-        "time": ""
-      }
-    ],
+    "CABK.MC": [],
+    "CAT": [],
     "CBA.AX": [],
-    "CMCSA": [
-      {
-        "date": "2026-01-29",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:15Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "CMCSA",
-        "time": ""
-      }
-    ],
-    "CNH": [
-      {
-        "date": "2026-02-11",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:16Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "CNH",
-        "time": ""
-      }
-    ],
-    "COP": [
-      {
-        "date": "2026-02-05",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:17Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "COP",
-        "time": ""
-      }
-    ],
-    "COST": [
-      {
-        "date": "2026-03-05",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:17Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "COST",
-        "time": ""
-      }
-    ],
-    "CRM": [
-      {
-        "date": "2026-02-25",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:19Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "CRM",
-        "time": ""
-      }
-    ],
-    "CSCO": [
-      {
-        "date": "2026-02-11",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:19Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "CSCO",
-        "time": ""
-      }
-    ],
-    "CSL.AX": [
-      {
-        "date": "2026-02-10",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:20Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "CSL.AX",
-        "time": ""
-      }
-    ],
-    "CVS": [
-      {
-        "date": "2026-02-10",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:21Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "CVS",
-        "time": ""
-      }
-    ],
-    "CVX": [
-      {
-        "date": "2026-01-30",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:22Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "CVX",
-        "time": ""
-      }
-    ],
-    "DHR": [
-      {
-        "date": "2026-01-28",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:23Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "DHR",
-        "time": ""
-      }
-    ],
-    "DIS": [
-      {
-        "date": "2026-02-02",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:24Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "DIS",
-        "time": ""
-      }
-    ],
+    "CMCSA": [],
+    "CNH": [],
+    "COP": [],
+    "COST": [],
+    "CRM": [],
+    "CSCO": [],
+    "CSL.AX": [],
+    "CVS": [],
+    "CVX": [],
+    "DHR": [],
+    "DIS": [],
     "DTE.DE": [],
-    "DTG.DE": [
-      {
-        "date": "2026-03-12",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:26Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "DTG.DE",
-        "time": ""
-      }
-    ],
-    "ENEL.MI": [
-      {
-        "date": "2026-03-19",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:27Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "ENEL.MI",
-        "time": ""
-      }
-    ],
+    "DTG.DE": [],
+    "ENEL.MI": [],
     "ENI.MI": [],
     "F34.SI": [],
-    "GE": [
-      {
-        "date": "2026-01-22",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:28Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "GE",
-        "time": ""
-      }
-    ],
-    "GOOGL": [
-      {
-        "date": "2026-02-04",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:29Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "GOOGL",
-        "time": ""
-      }
-    ],
-    "GS": [
-      {
-        "date": "2026-04-13",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:30Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "GS",
-        "time": ""
-      }
-    ],
+    "GE": [],
+    "GOOGL": [],
+    "GS": [],
     "H78.SI": [],
-    "HD": [
-      {
-        "date": "2026-02-24",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:31Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "HD",
-        "time": ""
-      }
-    ],
+    "HD": [],
     "HEIA.AS": [],
-    "HMC": [
-      {
-        "date": "2026-02-06",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:34Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "HMC",
-        "time": ""
-      }
-    ],
-    "HON": [
-      {
-        "date": "2026-01-29",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:34Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "HON",
-        "time": ""
-      }
-    ],
+    "HMC": [],
+    "HON": [],
     "HSBA.L": [],
-    "IBM": [
-      {
-        "date": "2026-01-28",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:36Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "IBM",
-        "time": ""
-      }
-    ],
-    "INTC": [
-      {
-        "date": "2026-01-22",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:36Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "INTC",
-        "time": ""
-      }
-    ],
-    "INTU": [
-      {
-        "date": "2026-02-26",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:37Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "INTU",
-        "time": ""
-      }
-    ],
-    "ISP.MI": [
-      {
-        "date": "2026-02-02",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:38Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "ISP.MI",
-        "time": ""
-      }
-    ],
-    "ISRG": [
-      {
-        "date": "2026-01-22",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:38Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "ISRG",
-        "time": ""
-      }
-    ],
+    "IBM": [],
+    "INTC": [],
+    "INTU": [],
+    "ISP.MI": [],
+    "ISRG": [],
     "ITX.MC": [],
     "JD": [],
-    "JNJ": [
-      {
-        "date": "2026-01-21",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:41Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "JNJ",
-        "time": ""
-      }
-    ],
-    "JPM": [
-      {
-        "date": "2026-04-14",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:42Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "JPM",
-        "time": ""
-      }
-    ],
-    "KO": [
-      {
-        "date": "2026-02-10",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:44Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "KO",
-        "time": ""
-      }
-    ],
-    "LI": [
-      {
-        "date": "2026-02-26",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:44Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "LI",
-        "time": ""
-      }
-    ],
-    "LIN": [
-      {
-        "date": "2026-02-05",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:45Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "LIN",
-        "time": ""
-      }
-    ],
-    "LLY": [
-      {
-        "date": "2026-02-04",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:46Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "LLY",
-        "time": ""
-      }
-    ],
-    "LMT": [
-      {
-        "date": "2026-01-29",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:47Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "LMT",
-        "time": ""
-      }
-    ],
-    "LSEG.L": [
-      {
-        "date": "2026-02-26",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:47Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "LSEG.L",
-        "time": ""
-      }
-    ],
-    "MA": [
-      {
-        "date": "2026-01-29",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:48Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "MA",
-        "time": ""
-      }
-    ],
+    "JNJ": [],
+    "JPM": [],
+    "KO": [],
+    "LI": [],
+    "LIN": [],
+    "LLY": [],
+    "LMT": [],
+    "LSEG.L": [],
+    "MA": [],
     "MBG.DE": [],
     "MC.PA": [],
-    "MCD": [
-      {
-        "date": "2026-02-11",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:50Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "MCD",
-        "time": ""
-      }
-    ],
-    "MDLZ": [
-      {
-        "date": "2026-02-03",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:51Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "MDLZ",
-        "time": ""
-      }
-    ],
-    "META": [
-      {
-        "date": "2026-01-28",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:52Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "META",
-        "time": ""
-      }
-    ],
-    "MMM": [
-      {
-        "date": "2026-01-20",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:52Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "MMM",
-        "time": ""
-      }
-    ],
-    "MRK": [
-      {
-        "date": "2026-02-03",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:53Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "MRK",
-        "time": ""
-      }
-    ],
+    "MCD": [],
+    "MDLZ": [],
+    "META": [],
+    "MMM": [],
+    "MRK": [],
     "MRK.DE": [],
-    "MS": [
-      {
-        "date": "2026-04-15",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:54Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "MS",
-        "time": ""
-      }
-    ],
-    "MSFT": [
-      {
-        "date": "2026-01-28",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:55Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "MSFT",
-        "time": ""
-      }
-    ],
+    "MS": [],
+    "MSFT": [],
     "NAB.AX": [],
-    "NEE": [
-      {
-        "date": "2026-01-27",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:57Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "NEE",
-        "time": ""
-      }
-    ],
+    "NEE": [],
     "NESTE.HE": [],
-    "NFLX": [
-      {
-        "date": "2026-01-20",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:32:59Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "NFLX",
-        "time": ""
-      }
-    ],
+    "NFLX": [],
     "NKE": [],
     "NOKIA.HE": [],
-    "NOW": [
-      {
-        "date": "2026-01-28",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:02Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "NOW",
-        "time": ""
-      }
-    ],
-    "NVDA": [
-      {
-        "date": "2026-02-25",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:02Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "NVDA",
-        "time": ""
-      }
-    ],
-    "OR.PA": [
-      {
-        "date": "2026-02-12",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:04Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "OR.PA",
-        "time": ""
-      }
-    ],
-    "ORCL": [
-      {
-        "date": "2026-03-09",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:05Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "ORCL",
-        "time": ""
-      }
-    ],
-    "PEP": [
-      {
-        "date": "2026-02-03",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:06Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "PEP",
-        "time": ""
-      }
-    ],
-    "PFE": [
-      {
-        "date": "2026-02-03",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:06Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "PFE",
-        "time": ""
-      }
-    ],
-    "PG": [
-      {
-        "date": "2026-01-22",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:07Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "PG",
-        "time": ""
-      }
-    ],
-    "PM": [
-      {
-        "date": "2026-02-06",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:08Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "PM",
-        "time": ""
-      }
-    ],
-    "PYPL": [
-      {
-        "date": "2026-02-03",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:09Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "PYPL",
-        "time": ""
-      }
-    ],
-    "QCOM": [
-      {
-        "date": "2026-02-04",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:09Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "QCOM",
-        "time": ""
-      }
-    ],
-    "RACE.MI": [
-      {
-        "date": "2026-02-10",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:10Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "RACE.MI",
-        "time": ""
-      }
-    ],
+    "NOW": [],
+    "NVDA": [],
+    "OR.PA": [],
+    "ORCL": [],
+    "PEP": [],
+    "PFE": [],
+    "PG": [],
+    "PM": [],
+    "PYPL": [],
+    "QCOM": [],
+    "RACE.MI": [],
     "RMS.PA": [],
-    "RTX": [
-      {
-        "date": "2026-01-27",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:11Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "RTX",
-        "time": ""
-      }
-    ],
-    "S68.SI": [
-      {
-        "date": "2026-02-05",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:14Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "S68.SI",
-        "time": ""
-      }
-    ],
+    "RTX": [],
+    "S68.SI": [],
     "SAN.MC": [],
-    "SAP": [
-      {
-        "date": "2026-01-29",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:12Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "SAP",
-        "time": ""
-      }
-    ],
-    "SBUX": [
-      {
-        "date": "2026-01-28",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:13Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "SBUX",
-        "time": ""
-      }
-    ],
+    "SAP": [],
+    "SBUX": [],
     "SHEL.L": [],
-    "SHOP": [
-      {
-        "date": "2026-02-11",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:16Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "SHOP",
-        "time": ""
-      }
-    ],
-    "SIE.DE": [
-      {
-        "date": "2026-02-12",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:17Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "SIE.DE",
-        "time": ""
-      }
-    ],
-    "SONY": [
-      {
-        "date": "2026-02-05",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:18Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "SONY",
-        "time": ""
-      }
-    ],
-    "STLAM.MI": [
-      {
-        "date": "2026-02-26",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:18Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "STLAM.MI",
-        "time": ""
-      }
-    ],
-    "T": [
-      {
-        "date": "2026-01-28",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:20Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "T",
-        "time": ""
-      }
-    ],
+    "SHOP": [],
+    "SIE.DE": [],
+    "SONY": [],
+    "STLAM.MI": [],
+    "T": [],
     "TCEHY": [],
-    "TMO": [
-      {
-        "date": "2026-01-29",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:24Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "TMO",
-        "time": ""
-      }
-    ],
-    "TMUS": [
-      {
-        "date": "2026-02-11",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:25Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "TMUS",
-        "time": ""
-      }
-    ],
-    "TSLA": [
-      {
-        "date": "2026-01-28",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:26Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "TSLA",
-        "time": ""
-      }
-    ],
-    "TTE.PA": [
-      {
-        "date": "2026-02-11",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:26Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "TTE.PA",
-        "time": ""
-      }
-    ],
-    "TXN": [
-      {
-        "date": "2026-01-27",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:27Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "TXN",
-        "time": ""
-      }
-    ],
+    "TMO": [],
+    "TMUS": [],
+    "TSLA": [],
+    "TTE.PA": [],
+    "TXN": [],
     "UCG.MI": [],
-    "ULVR.L": [
-      {
-        "date": "2026-02-12",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:29Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "ULVR.L",
-        "time": ""
-      }
-    ],
-    "UNH": [
-      {
-        "date": "2026-01-27",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:30Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "UNH",
-        "time": ""
-      }
-    ],
-    "UNP": [
-      {
-        "date": "2026-01-27",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:30Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "UNP",
-        "time": ""
-      }
-    ],
-    "UPS": [
-      {
-        "date": "2026-01-27",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:31Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "UPS",
-        "time": ""
-      }
-    ],
-    "V": [
-      {
-        "date": "2026-01-29",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:32Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "V",
-        "time": ""
-      }
-    ],
+    "ULVR.L": [],
+    "UNH": [],
+    "UNP": [],
+    "UPS": [],
+    "V": [],
     "VNA.DE": [],
     "VOD.L": [],
     "VOLV-B.ST": [],
     "VOW3.DE": [],
-    "VZ": [
-      {
-        "date": "2026-01-30",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:36Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "VZ",
-        "time": ""
-      }
-    ],
+    "VZ": [],
     "WES.AX": [],
-    "WFC": [
-      {
-        "date": "2026-04-14",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:37Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "WFC",
-        "time": ""
-      }
-    ],
-    "WMT": [
-      {
-        "date": "2026-02-19",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:38Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "WMT",
-        "time": ""
-      }
-    ],
-    "XOM": [
-      {
-        "date": "2026-01-30",
-        "epsActual": null,
-        "epsEstimate": null,
-        "lastUpdated": "2026-01-18T18:33:39Z",
-        "revenueActual": null,
-        "revenueEstimate": null,
-        "source": "yfinance.calendar",
-        "symbol": "XOM",
-        "time": ""
-      }
-    ]
+    "WFC": [],
+    "WMT": [],
+    "XOM": []
   }
 }
