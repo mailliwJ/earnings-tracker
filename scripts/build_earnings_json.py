@@ -123,7 +123,7 @@ def main():
             "note":note
         }]
 
-    payload = {"generated_at": generated_at, "results": results, "notes": notes}
+    payload = {"generated_at": generated_at, "results": results}
     out_path.write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
 
 
