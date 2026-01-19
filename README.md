@@ -9,7 +9,7 @@ This repository powers a **Google Sheets earnings tracker**:
 
 ---
 
-## 1) What you should do (quick plan)
+## 1) How it works (quick plan)
 
 1. **GitHub**: Make sure your workflow runs and commits `data/earnings.json` daily.
 2. **Google Sheets**: Create tabs + headers exactly as specified.
@@ -21,7 +21,7 @@ This repository powers a **Google Sheets earnings tracker**:
 
 ---
 
-## 2) High-level architecture (with diagrams)
+## 2) High-level architecture
 
 ### 2.1 Data flow diagram
 
@@ -417,4 +417,4 @@ Apps Script syncs those flags back to Master on the next run.
 ## 12) Disclaimer / license
 
 This tool is for tracking and organization only. No guarantee of correctness.  
-Add a license if desired (MIT/Apache/etc.). If you do not add one, GitHub defaults to “All rights reserved.”
+MIT — see `LICENSE`.
