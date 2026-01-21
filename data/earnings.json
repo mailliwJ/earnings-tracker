@@ -1,1 +1,1918 @@
-
+{
+  "generated_at": "2026-01-21T14:06:30Z",
+  "results": {
+    "3382.T": [
+      {
+        "country": "Japan",
+        "date": "2026-04-09",
+        "epsActual": null,
+        "epsEstimate": 36.03,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "3382.T"
+      }
+    ],
+    "4568.T": [
+      {
+        "country": "Japan",
+        "date": "2026-01-30",
+        "epsActual": null,
+        "epsEstimate": 30.29,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "4568.T"
+      }
+    ],
+    "4661.T": [
+      {
+        "country": "Japan",
+        "date": "2026-01-29",
+        "epsActual": null,
+        "epsEstimate": 31.61,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "4661.T"
+      }
+    ],
+    "6367.T": [
+      {
+        "country": "Japan",
+        "date": "2026-02-04",
+        "epsActual": null,
+        "epsEstimate": 207.7,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "6367.T"
+      }
+    ],
+    "6501.T": [
+      {
+        "country": "Japan",
+        "date": "2026-01-29",
+        "epsActual": null,
+        "epsEstimate": 35.27,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "6501.T"
+      }
+    ],
+    "6594.T": [
+      {
+        "country": "Japan",
+        "date": "2026-01-27",
+        "epsActual": null,
+        "epsEstimate": 43.33,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "6594.T"
+      }
+    ],
+    "6861.T": [
+      {
+        "country": "Japan",
+        "date": "2026-01-29",
+        "epsActual": null,
+        "epsEstimate": 379.34,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "6861.T"
+      }
+    ],
+    "6981.T": [
+      {
+        "country": "Japan",
+        "date": "2026-02-02",
+        "epsActual": null,
+        "epsEstimate": 39.84,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "6981.T"
+      }
+    ],
+    "7203.T": [
+      {
+        "country": "Japan",
+        "date": "2026-02-06",
+        "epsActual": null,
+        "epsEstimate": 74.05,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "7203.T"
+      }
+    ],
+    "8035.T": [
+      {
+        "country": "Japan",
+        "date": "2026-02-06",
+        "epsActual": null,
+        "epsEstimate": 268.6,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "8035.T"
+      }
+    ],
+    "8766.T": [
+      {
+        "country": "Japan",
+        "date": "2026-02-13",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "8766.T"
+      }
+    ],
+    "9CI.SI": [
+      {
+        "country": "Singapore",
+        "date": "2026-02-11",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "9CI.SI"
+      }
+    ],
+    "AAPL": [
+      {
+        "country": "United States",
+        "date": "2026-01-29",
+        "epsActual": null,
+        "epsEstimate": 2.67,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "AAPL"
+      }
+    ],
+    "ABBV": [
+      {
+        "country": "United States",
+        "date": "2026-02-04",
+        "epsActual": null,
+        "epsEstimate": 3.1,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ABBV"
+      }
+    ],
+    "ABNB": [
+      {
+        "country": "United States",
+        "date": "2026-02-12",
+        "epsActual": null,
+        "epsEstimate": 0.66,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ABNB"
+      }
+    ],
+    "ABT": [
+      {
+        "country": "United States",
+        "date": "2026-01-22",
+        "epsActual": null,
+        "epsEstimate": 1.49,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ABT"
+      }
+    ],
+    "ACN": [
+      {
+        "country": "United States",
+        "date": "2026-03-19",
+        "epsActual": null,
+        "epsEstimate": 2.85,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ACN"
+      }
+    ],
+    "ADBE": [
+      {
+        "country": "United States",
+        "date": "2026-03-12",
+        "epsActual": null,
+        "epsEstimate": 5.87,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ADBE"
+      }
+    ],
+    "ADS.DE": [
+      {
+        "country": "Germany",
+        "date": "2026-03-04",
+        "epsActual": null,
+        "epsEstimate": 0.6,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ADS.DE"
+      }
+    ],
+    "AI.PA": [
+      {
+        "country": "France",
+        "date": "2026-02-20",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "AI.PA"
+      }
+    ],
+    "AIR.PA": [
+      {
+        "country": "France",
+        "date": "2026-02-19",
+        "epsActual": null,
+        "epsEstimate": 2.58,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "AIR.PA"
+      }
+    ],
+    "ALV.DE": [
+      {
+        "country": "Germany",
+        "date": "2026-02-26",
+        "epsActual": null,
+        "epsEstimate": 6.4,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ALV.DE"
+      }
+    ],
+    "AMD": [
+      {
+        "country": "United States",
+        "date": "2026-02-03",
+        "epsActual": null,
+        "epsEstimate": 1.32,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "AMD"
+      }
+    ],
+    "AMZN": [
+      {
+        "country": "United States",
+        "date": "2026-02-05",
+        "epsActual": null,
+        "epsEstimate": 1.95,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "AMZN"
+      }
+    ],
+    "ASML.AS": [
+      {
+        "country": "Netherlands",
+        "date": "2026-01-28",
+        "epsActual": null,
+        "epsEstimate": 7.52,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ASML.AS"
+      }
+    ],
+    "AVGO": [
+      {
+        "country": "United States",
+        "date": "2026-03-04",
+        "epsActual": null,
+        "epsEstimate": 2.02,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "AVGO"
+      }
+    ],
+    "AXP": [
+      {
+        "country": "United States",
+        "date": "2026-01-30",
+        "epsActual": null,
+        "epsEstimate": 3.53,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "AXP"
+      }
+    ],
+    "AZN.L": [
+      {
+        "country": "United Kingdom",
+        "date": "2026-02-10",
+        "epsActual": null,
+        "epsEstimate": 2.1,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "AZN.L"
+      }
+    ],
+    "BA": [
+      {
+        "country": "United States",
+        "date": "2026-01-27",
+        "epsActual": null,
+        "epsEstimate": -0.42,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BA"
+      }
+    ],
+    "BABA": [
+      {
+        "country": "United States",
+        "date": "2026-02-19",
+        "epsActual": null,
+        "epsEstimate": 11.24,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BABA"
+      }
+    ],
+    "BAC": [
+      {
+        "country": "United States",
+        "date": "2026-04-15",
+        "epsActual": null,
+        "epsEstimate": 0.99,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BAC"
+      }
+    ],
+    "BARC.L": [
+      {
+        "country": "United Kingdom",
+        "date": "2026-02-10",
+        "epsActual": null,
+        "epsEstimate": 0.08,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BARC.L"
+      }
+    ],
+    "BATS.L": [
+      {
+        "country": "United Kingdom",
+        "date": "2026-02-12",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BATS.L"
+      }
+    ],
+    "BAYN.DE": [
+      {
+        "country": "Germany",
+        "date": "2026-02-25",
+        "epsActual": null,
+        "epsEstimate": 0.44,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BAYN.DE"
+      }
+    ],
+    "BBVA.MC": [
+      {
+        "country": "Spain",
+        "date": "2026-02-05",
+        "epsActual": null,
+        "epsEstimate": 0.43,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BBVA.MC"
+      }
+    ],
+    "BEI.DE": [
+      {
+        "country": "Germany",
+        "date": "2026-03-03",
+        "epsActual": null,
+        "epsEstimate": 10.07,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BEI.DE"
+      }
+    ],
+    "BHP.AX": [
+      {
+        "country": "Australia",
+        "date": "2026-02-16",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BHP.AX"
+      }
+    ],
+    "BKNG": [
+      {
+        "country": "United States",
+        "date": "2026-02-19",
+        "epsActual": null,
+        "epsEstimate": 48.26,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BKNG"
+      }
+    ],
+    "BLK": [
+      {
+        "country": "United States",
+        "date": "2026-04-10",
+        "epsActual": null,
+        "epsEstimate": 12.41,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BLK"
+      }
+    ],
+    "BMW.DE": [
+      {
+        "country": "Germany",
+        "date": "2026-03-12",
+        "epsActual": null,
+        "epsEstimate": 1.47,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BMW.DE"
+      }
+    ],
+    "BMY": [
+      {
+        "country": "United States",
+        "date": "2026-02-05",
+        "epsActual": null,
+        "epsEstimate": 1.48,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BMY"
+      }
+    ],
+    "BNP.PA": [
+      {
+        "country": "France",
+        "date": "2026-02-05",
+        "epsActual": null,
+        "epsEstimate": 2.38,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BNP.PA"
+      }
+    ],
+    "BX": [
+      {
+        "country": "United States",
+        "date": "2026-01-29",
+        "epsActual": null,
+        "epsEstimate": 1.53,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "BX"
+      }
+    ],
+    "C07.SI": [
+      {
+        "country": "Singapore",
+        "date": "2026-02-24",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "C07.SI"
+      }
+    ],
+    "C6L.SI": [
+      {
+        "country": "Singapore",
+        "date": "2026-02-24",
+        "epsActual": null,
+        "epsEstimate": 0.12,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "C6L.SI"
+      }
+    ],
+    "CABK.MC": [
+      {
+        "country": "Spain",
+        "date": "2026-01-30",
+        "epsActual": null,
+        "epsEstimate": 0.2,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "CABK.MC"
+      }
+    ],
+    "CAT": [
+      {
+        "country": "United States",
+        "date": "2026-01-29",
+        "epsActual": null,
+        "epsEstimate": 4.7,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "CAT"
+      }
+    ],
+    "CBA.AX": [
+      {
+        "country": "Australia",
+        "date": "2026-02-10",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "CBA.AX"
+      }
+    ],
+    "CMCSA": [
+      {
+        "country": "United States",
+        "date": "2026-01-29",
+        "epsActual": null,
+        "epsEstimate": 0.76,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "CMCSA"
+      }
+    ],
+    "CNH": [
+      {
+        "country": "United States",
+        "date": "2026-02-17",
+        "epsActual": null,
+        "epsEstimate": 0.11,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "CNH"
+      }
+    ],
+    "COP": [
+      {
+        "country": "United States",
+        "date": "2026-02-05",
+        "epsActual": null,
+        "epsEstimate": 1.12,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "COP"
+      }
+    ],
+    "COST": [
+      {
+        "country": "United States",
+        "date": "2026-03-05",
+        "epsActual": null,
+        "epsEstimate": 4.51,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "COST"
+      }
+    ],
+    "CRM": [
+      {
+        "country": "United States",
+        "date": "2026-02-25",
+        "epsActual": null,
+        "epsEstimate": 3.05,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "CRM"
+      }
+    ],
+    "CSCO": [
+      {
+        "country": "United States",
+        "date": "2026-02-11",
+        "epsActual": null,
+        "epsEstimate": 1.02,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "CSCO"
+      }
+    ],
+    "CSL.AX": [
+      {
+        "country": "Australia",
+        "date": "2026-02-10",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "CSL.AX"
+      }
+    ],
+    "CVS": [
+      {
+        "country": "United States",
+        "date": "2026-02-10",
+        "epsActual": null,
+        "epsEstimate": 0.99,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "CVS"
+      }
+    ],
+    "CVX": [
+      {
+        "country": "United States",
+        "date": "2026-01-30",
+        "epsActual": null,
+        "epsEstimate": 1.49,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "CVX"
+      }
+    ],
+    "DHR": [
+      {
+        "country": "United States",
+        "date": "2026-01-28",
+        "epsActual": null,
+        "epsEstimate": 2.19,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "DHR"
+      }
+    ],
+    "DIS": [
+      {
+        "country": "United States",
+        "date": "2026-02-02",
+        "epsActual": null,
+        "epsEstimate": 1.57,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "DIS"
+      }
+    ],
+    "DTE.DE": [
+      {
+        "country": "Germany",
+        "date": "2026-02-26",
+        "epsActual": null,
+        "epsEstimate": 0.43,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "DTE.DE"
+      }
+    ],
+    "DTG.DE": [
+      {
+        "country": "Germany",
+        "date": "2026-03-12",
+        "epsActual": null,
+        "epsEstimate": 0.79,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "DTG.DE"
+      }
+    ],
+    "ENEL.MI": [
+      {
+        "country": "Italy",
+        "date": "2026-03-19",
+        "epsActual": null,
+        "epsEstimate": 0.14,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ENEL.MI"
+      }
+    ],
+    "ENI.MI": [
+      {
+        "country": "Italy",
+        "date": "2026-02-26",
+        "epsActual": null,
+        "epsEstimate": 0.34,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ENI.MI"
+      }
+    ],
+    "F34.SI": [
+      {
+        "country": "Singapore",
+        "date": "2026-02-19",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "F34.SI"
+      }
+    ],
+    "GE": [
+      {
+        "country": "United States",
+        "date": "2026-01-22",
+        "epsActual": null,
+        "epsEstimate": 1.43,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "GE"
+      }
+    ],
+    "GOOGL": [
+      {
+        "country": "United States",
+        "date": "2026-02-04",
+        "epsActual": null,
+        "epsEstimate": 2.64,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "GOOGL"
+      }
+    ],
+    "GS": [
+      {
+        "country": "United States",
+        "date": "2026-04-13",
+        "epsActual": null,
+        "epsEstimate": 15.63,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "GS"
+      }
+    ],
+    "H78.SI": [
+      {
+        "country": "Singapore",
+        "date": "2026-03-06",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "H78.SI"
+      }
+    ],
+    "HD": [
+      {
+        "country": "United States",
+        "date": "2026-02-24",
+        "epsActual": null,
+        "epsEstimate": 3.04,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "HD"
+      }
+    ],
+    "HEIA.AS": [
+      {
+        "country": "Netherlands",
+        "date": "2026-02-11",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "HEIA.AS"
+      }
+    ],
+    "HMC": [
+      {
+        "country": "United States",
+        "date": "2026-02-10",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "HMC"
+      }
+    ],
+    "HON": [
+      {
+        "country": "United States",
+        "date": "2026-01-29",
+        "epsActual": null,
+        "epsEstimate": 2.53,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "HON"
+      }
+    ],
+    "HSBA.L": [
+      {
+        "country": "United Kingdom",
+        "date": "2026-02-25",
+        "epsActual": null,
+        "epsEstimate": 0.32,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "HSBA.L"
+      }
+    ],
+    "IBM": [
+      {
+        "country": "United States",
+        "date": "2026-01-28",
+        "epsActual": null,
+        "epsEstimate": 4.29,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "IBM"
+      }
+    ],
+    "INTC": [
+      {
+        "country": "United States",
+        "date": "2026-01-22",
+        "epsActual": null,
+        "epsEstimate": 0.08,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "INTC"
+      }
+    ],
+    "INTU": [
+      {
+        "country": "United States",
+        "date": "2026-02-26",
+        "epsActual": null,
+        "epsEstimate": 3.68,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "INTU"
+      }
+    ],
+    "ISP.MI": [
+      {
+        "country": "Italy",
+        "date": "2026-02-02",
+        "epsActual": null,
+        "epsEstimate": 0.1,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ISP.MI"
+      }
+    ],
+    "ISRG": [
+      {
+        "country": "United States",
+        "date": "2026-01-22",
+        "epsActual": null,
+        "epsEstimate": 2.27,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ISRG"
+      }
+    ],
+    "ITX.MC": [
+      {
+        "country": "Spain",
+        "date": "2026-03-11",
+        "epsActual": null,
+        "epsEstimate": 0.43,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ITX.MC"
+      }
+    ],
+    "JD": [
+      {
+        "country": "United States",
+        "date": "2026-03-05",
+        "epsActual": null,
+        "epsEstimate": 0.72,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "JD"
+      }
+    ],
+    "JNJ": [],
+    "JPM": [
+      {
+        "country": "United States",
+        "date": "2026-04-14",
+        "epsActual": null,
+        "epsEstimate": 5.33,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "JPM"
+      }
+    ],
+    "KO": [
+      {
+        "country": "United States",
+        "date": "2026-02-10",
+        "epsActual": null,
+        "epsEstimate": 0.56,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "KO"
+      }
+    ],
+    "LI": [
+      {
+        "country": "United States",
+        "date": "2026-02-26",
+        "epsActual": null,
+        "epsEstimate": 0.15,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "LI"
+      }
+    ],
+    "LIN": [
+      {
+        "country": "United States",
+        "date": "2026-02-05",
+        "epsActual": null,
+        "epsEstimate": 4.18,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "LIN"
+      }
+    ],
+    "LLY": [
+      {
+        "country": "United States",
+        "date": "2026-02-04",
+        "epsActual": null,
+        "epsEstimate": 7.09,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "LLY"
+      }
+    ],
+    "LMT": [
+      {
+        "country": "United States",
+        "date": "2026-01-29",
+        "epsActual": null,
+        "epsEstimate": 5.93,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "LMT"
+      }
+    ],
+    "LSEG.L": [
+      {
+        "country": "United Kingdom",
+        "date": "2026-02-26",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "LSEG.L"
+      }
+    ],
+    "MA": [
+      {
+        "country": "United States",
+        "date": "2026-01-29",
+        "epsActual": null,
+        "epsEstimate": 4.24,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "MA"
+      }
+    ],
+    "MBG.DE": [
+      {
+        "country": "Germany",
+        "date": "2026-02-12",
+        "epsActual": null,
+        "epsEstimate": 1.08,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "MBG.DE"
+      }
+    ],
+    "MC.PA": [
+      {
+        "country": "France",
+        "date": "2026-01-27",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "MC.PA"
+      }
+    ],
+    "MCD": [
+      {
+        "country": "United States",
+        "date": "2026-02-11",
+        "epsActual": null,
+        "epsEstimate": 3.04,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "MCD"
+      }
+    ],
+    "MDLZ": [
+      {
+        "country": "United States",
+        "date": "2026-02-03",
+        "epsActual": null,
+        "epsEstimate": 0.7,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "MDLZ"
+      }
+    ],
+    "META": [
+      {
+        "country": "United States",
+        "date": "2026-01-28",
+        "epsActual": null,
+        "epsEstimate": 8.17,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "META"
+      }
+    ],
+    "MMM": [
+      {
+        "country": "United States",
+        "date": "2026-04-21",
+        "epsActual": null,
+        "epsEstimate": 1.98,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "MMM"
+      }
+    ],
+    "MRK": [
+      {
+        "country": "United States",
+        "date": "2026-02-03",
+        "epsActual": null,
+        "epsEstimate": 2.01,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "MRK"
+      }
+    ],
+    "MRK.DE": [
+      {
+        "country": "Germany",
+        "date": "2026-03-05",
+        "epsActual": null,
+        "epsEstimate": 1.94,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "MRK.DE"
+      }
+    ],
+    "MS": [
+      {
+        "country": "United States",
+        "date": "2026-04-15",
+        "epsActual": null,
+        "epsEstimate": 2.93,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "MS"
+      }
+    ],
+    "MSFT": [
+      {
+        "country": "United States",
+        "date": "2026-01-28",
+        "epsActual": null,
+        "epsEstimate": 3.86,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "MSFT"
+      }
+    ],
+    "NAB.AX": [
+      {
+        "country": "Australia",
+        "date": "2026-05-04",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "NAB.AX"
+      }
+    ],
+    "NEE": [
+      {
+        "country": "United States",
+        "date": "2026-01-27",
+        "epsActual": null,
+        "epsEstimate": 0.52,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "NEE"
+      }
+    ],
+    "NESTE.HE": [
+      {
+        "country": "Finland",
+        "date": "2026-02-05",
+        "epsActual": null,
+        "epsEstimate": 0.25,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "NESTE.HE"
+      }
+    ],
+    "NFLX": [
+      {
+        "country": "United States",
+        "date": "2026-04-16",
+        "epsActual": null,
+        "epsEstimate": 0.76,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "NFLX"
+      }
+    ],
+    "NKE": [
+      {
+        "country": "United States",
+        "date": "2026-03-19",
+        "epsActual": null,
+        "epsEstimate": 0.29,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "NKE"
+      }
+    ],
+    "NOKIA.HE": [
+      {
+        "country": "Finland",
+        "date": "2026-01-29",
+        "epsActual": null,
+        "epsEstimate": 0.15,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "NOKIA.HE"
+      }
+    ],
+    "NOW": [
+      {
+        "country": "United States",
+        "date": "2026-01-28",
+        "epsActual": null,
+        "epsEstimate": 0.89,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "NOW"
+      }
+    ],
+    "NVDA": [
+      {
+        "country": "United States",
+        "date": "2026-02-25",
+        "epsActual": null,
+        "epsEstimate": 1.52,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "NVDA"
+      }
+    ],
+    "OR.PA": [
+      {
+        "country": "France",
+        "date": "2026-02-12",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "OR.PA"
+      }
+    ],
+    "ORCL": [
+      {
+        "country": "United States",
+        "date": "2026-03-09",
+        "epsActual": null,
+        "epsEstimate": 1.71,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ORCL"
+      }
+    ],
+    "PEP": [
+      {
+        "country": "United States",
+        "date": "2026-02-03",
+        "epsActual": null,
+        "epsEstimate": 2.24,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "PEP"
+      }
+    ],
+    "PFE": [
+      {
+        "country": "United States",
+        "date": "2026-02-03",
+        "epsActual": null,
+        "epsEstimate": 0.57,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "PFE"
+      }
+    ],
+    "PG": [
+      {
+        "country": "United States",
+        "date": "2026-01-22",
+        "epsActual": null,
+        "epsEstimate": 1.86,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "PG"
+      }
+    ],
+    "PM": [
+      {
+        "country": "United States",
+        "date": "2026-02-06",
+        "epsActual": null,
+        "epsEstimate": 1.7,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "PM"
+      }
+    ],
+    "PYPL": [
+      {
+        "country": "United States",
+        "date": "2026-02-03",
+        "epsActual": null,
+        "epsEstimate": 1.29,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "PYPL"
+      }
+    ],
+    "QCOM": [
+      {
+        "country": "United States",
+        "date": "2026-02-04",
+        "epsActual": null,
+        "epsEstimate": 3.39,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "QCOM"
+      }
+    ],
+    "RACE.MI": [
+      {
+        "country": "Italy",
+        "date": "2026-02-10",
+        "epsActual": null,
+        "epsEstimate": 2.2,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "RACE.MI"
+      }
+    ],
+    "RMS.PA": [
+      {
+        "country": "France",
+        "date": "2026-02-12",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "RMS.PA"
+      }
+    ],
+    "RTX": [
+      {
+        "country": "United States",
+        "date": "2026-01-27",
+        "epsActual": null,
+        "epsEstimate": 1.47,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "RTX"
+      }
+    ],
+    "S68.SI": [
+      {
+        "country": "Singapore",
+        "date": "2026-02-05",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "S68.SI"
+      }
+    ],
+    "SAN.MC": [
+      {
+        "country": "Spain",
+        "date": "2026-02-04",
+        "epsActual": null,
+        "epsEstimate": 0.23,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "SAN.MC"
+      }
+    ],
+    "SAP": [
+      {
+        "country": "United States",
+        "date": "2026-01-29",
+        "epsActual": null,
+        "epsEstimate": 1.72,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "SAP"
+      }
+    ],
+    "SBUX": [
+      {
+        "country": "United States",
+        "date": "2026-01-28",
+        "epsActual": null,
+        "epsEstimate": 0.59,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "SBUX"
+      }
+    ],
+    "SHEL.L": [
+      {
+        "country": "United Kingdom",
+        "date": "2026-02-05",
+        "epsActual": null,
+        "epsEstimate": 0.71,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "SHEL.L"
+      }
+    ],
+    "SHOP": [
+      {
+        "country": "United States",
+        "date": "2026-02-11",
+        "epsActual": null,
+        "epsEstimate": 0.51,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "SHOP"
+      }
+    ],
+    "SIE.DE": [
+      {
+        "country": "Germany",
+        "date": "2026-02-12",
+        "epsActual": null,
+        "epsEstimate": 2.21,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "SIE.DE"
+      }
+    ],
+    "SONY": [
+      {
+        "country": "United States",
+        "date": "2026-02-05",
+        "epsActual": null,
+        "epsEstimate": 0.28,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "SONY"
+      }
+    ],
+    "STLAM.MI": [
+      {
+        "country": "Italy",
+        "date": "2026-02-26",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "STLAM.MI"
+      }
+    ],
+    "T": [
+      {
+        "country": "United States",
+        "date": "2026-01-28",
+        "epsActual": null,
+        "epsEstimate": 0.47,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "T"
+      }
+    ],
+    "TCEHY": [
+      {
+        "country": "United States",
+        "date": "2026-03-18",
+        "epsActual": null,
+        "epsEstimate": 7.35,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "TCEHY"
+      }
+    ],
+    "TMO": [
+      {
+        "country": "United States",
+        "date": "2026-01-29",
+        "epsActual": null,
+        "epsEstimate": 6.45,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "TMO"
+      }
+    ],
+    "TMUS": [
+      {
+        "country": "United States",
+        "date": "2026-02-11",
+        "epsActual": null,
+        "epsEstimate": 2.07,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "TMUS"
+      }
+    ],
+    "TSLA": [
+      {
+        "country": "United States",
+        "date": "2026-01-28",
+        "epsActual": null,
+        "epsEstimate": 0.45,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "TSLA"
+      }
+    ],
+    "TTE.PA": [
+      {
+        "country": "France",
+        "date": "2026-02-11",
+        "epsActual": null,
+        "epsEstimate": 1.71,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "TTE.PA"
+      }
+    ],
+    "TXN": [
+      {
+        "country": "United States",
+        "date": "2026-01-27",
+        "epsActual": null,
+        "epsEstimate": 1.31,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "TXN"
+      }
+    ],
+    "UCG.MI": [
+      {
+        "country": "Italy",
+        "date": "2026-02-11",
+        "epsActual": null,
+        "epsEstimate": 1.21,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "UCG.MI"
+      }
+    ],
+    "ULVR.L": [
+      {
+        "country": "United Kingdom",
+        "date": "2026-02-12",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "ULVR.L"
+      }
+    ],
+    "UNH": [
+      {
+        "country": "United States",
+        "date": "2026-01-27",
+        "epsActual": null,
+        "epsEstimate": 2.11,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "UNH"
+      }
+    ],
+    "UNP": [
+      {
+        "country": "United States",
+        "date": "2026-01-27",
+        "epsActual": null,
+        "epsEstimate": 2.86,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "UNP"
+      }
+    ],
+    "UPS": [
+      {
+        "country": "United States",
+        "date": "2026-01-27",
+        "epsActual": null,
+        "epsEstimate": 2.2,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "UPS"
+      }
+    ],
+    "V": [
+      {
+        "country": "United States",
+        "date": "2026-01-29",
+        "epsActual": null,
+        "epsEstimate": 3.14,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "V"
+      }
+    ],
+    "VNA.DE": [
+      {
+        "country": "Germany",
+        "date": "2026-03-19",
+        "epsActual": null,
+        "epsEstimate": 0.43,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "VNA.DE"
+      }
+    ],
+    "VOD.L": [
+      {
+        "country": "United Kingdom",
+        "date": "2026-05-12",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "VOD.L"
+      }
+    ],
+    "VOLV-B.ST": [
+      {
+        "country": "Sweden",
+        "date": "2026-01-28",
+        "epsActual": null,
+        "epsEstimate": 4.59,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "VOLV-B.ST"
+      }
+    ],
+    "VOW3.DE": [],
+    "VZ": [
+      {
+        "country": "United States",
+        "date": "2026-01-30",
+        "epsActual": null,
+        "epsEstimate": 1.06,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "VZ"
+      }
+    ],
+    "WES.AX": [
+      {
+        "country": "Australia",
+        "date": "2026-02-18",
+        "epsActual": null,
+        "epsEstimate": null,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "WES.AX"
+      }
+    ],
+    "WFC": [
+      {
+        "country": "United States",
+        "date": "2026-04-14",
+        "epsActual": null,
+        "epsEstimate": 1.57,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "WFC"
+      }
+    ],
+    "WMT": [
+      {
+        "country": "United States",
+        "date": "2026-02-19",
+        "epsActual": null,
+        "epsEstimate": 0.72,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "WMT"
+      }
+    ],
+    "XOM": [
+      {
+        "country": "United States",
+        "date": "2026-01-30",
+        "epsActual": null,
+        "epsEstimate": 1.69,
+        "lastUpdated": "2026-01-21T14:06:30Z",
+        "note": "ok",
+        "source": "yfinance.get_earnings_dates",
+        "surprisePct": null,
+        "symbol": "XOM"
+      }
+    ]
+  }
+}
